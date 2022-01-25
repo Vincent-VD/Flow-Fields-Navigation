@@ -8,3 +8,6 @@ Pathfinding with crowds
   
   In this project I'll be implementing flow fields, a technique which assigns a direction to each space in a grid,
   and every actor inside will follow that direction.
+
+
+  Because I messed up, the repository has moved to a new location: https://github.com/Vincent-VD/Flow-Fields-Nav
